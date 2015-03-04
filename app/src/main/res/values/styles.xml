@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar"></style>
+
+    <color name="bg_color">#fdfdf7</color>
+
+    <!-- Main Activity color values -->
+    <color name="main_btn_text_color">#444</color>
+    <color name="main_btn_start_quiz_color">#b7cb5c</color>
+    <color name="main_start_btn_color">#aecd37</color>
+
+</resources>
