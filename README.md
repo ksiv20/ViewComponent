@@ -9,6 +9,6 @@ Since the easy option is selected, its icon state changes and the accumulated sc
 <img width="43%" src="https://raw.github.com/ksiv20/ViewComponent/master/screenshots/level_easy_selected.png" alt="easy level selected" title="easy level selected"</img>
 
 
-When another option is chosen, the previously selected icon button is deselected, and the points for the currently selected difficulty level is displayed.
+When another option is chosen, the previously selected icon button is deselected, and the points for the currently selected difficulty level are displayed.
 
 <img width="43%" src="https://raw.github.com/ksiv20/ViewComponent/master/screenshots/level_hard_selected.png" alt="hard option selected" title="hard option selected"</img>
